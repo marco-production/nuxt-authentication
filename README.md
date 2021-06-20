@@ -1,4 +1,4 @@
-# laravel-nuxt
+# Nuxt Authentication
 
 ## Build Setup
 
