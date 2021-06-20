@@ -1,5 +1,8 @@
 # Nuxt Authentication
 
+![image](https://user-images.githubusercontent.com/33947761/122687164-10870e80-d1e3-11eb-8e35-d00f8a1cf2a0.png)
+
+
 ## Build Setup
 
 ```bash
