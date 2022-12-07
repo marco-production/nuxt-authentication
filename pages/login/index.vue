@@ -64,10 +64,6 @@ export default {
         continuous: true
     },
 
-    /* async fetch() {
-        console.log(this)
-    }, */
-
     data() {
         return {
             email: 'klk@hotmail.com',
